@@ -2,4 +2,4 @@
 
 Temp
 
-Use the [clone](https://github.com/Me222282/ZeneSprites/tree/clone) branch when using git clone.
+Use the [clone](https://github.com/Me222282/ZeneSprites/tree/clone) branch when using git clone to include dependencies from the Zene Library.
